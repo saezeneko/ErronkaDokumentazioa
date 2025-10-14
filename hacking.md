@@ -60,5 +60,9 @@ Denbora Gehiagokin
 
 Kali-Linux
 
+![](<.gitbook/assets/unknown (47).png>)
 
+
+
+![](<.gitbook/assets/unknown (48).png>)
 
