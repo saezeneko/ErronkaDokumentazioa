@@ -13,7 +13,7 @@ wordpress - Administrador\
 
 Erabiltzaileen pribilegioak:
 
-![](<.gitbook/assets/unknown (1).png>)
+![](<.gitbook/assets/unknown (1) (1).png>)
 
 
 
@@ -32,7 +32,7 @@ Txantiloia:
 \
 
 
-![](<.gitbook/assets/unknown (2).png>)
+![](<.gitbook/assets/unknown (2) (1).png>)
 
 \
 

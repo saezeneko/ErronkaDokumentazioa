@@ -12,16 +12,12 @@
 
 ![](<.gitbook/assets/unknown (21).png>)
 
-\
 
 
 Plaka base&#x20;
 
 ### ![](<.gitbook/assets/unknown (22).png>)
 
-\
-\
-\
 \
 
 
@@ -52,10 +48,9 @@ Txipseteko zubi-kontrolagailuak (PCI bridge, ISA bridge, etab.)
 
 ![](<.gitbook/assets/unknown (25).png>)
 
+
+
 Jitsi Meet (Ubuntu 24.04.1)
-
-\
-
 
 ![](<.gitbook/assets/unknown (26).png>)
 
@@ -64,7 +59,12 @@ Jitsi Meet (Ubuntu 24.04.1)
 
 Cops (Ubuntu 24.04.1)
 
-\
-
-
 ![](<.gitbook/assets/unknown (27).png>)
+
+
+
+Gure Tailerra
+
+![](<.gitbook/assets/unknown (1).png>)
+
+\
