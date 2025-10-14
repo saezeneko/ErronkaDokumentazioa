@@ -24,12 +24,14 @@ Inpresora Mekanika - 192.168.10.32/24
 Wordpress - 192.168.10.130/24
 
 Kali-LINUX - 192.168.10.110/24\
+
+
 \
 Gure Sare eskema
 
 
 
-![](.gitbook/assets/unknown.png)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
