@@ -80,3 +80,89 @@ Softwares:
 * Windows Server 2019
 * Linux 24.04.1
 * Kali
+
+
+
+## Segurtasun plana
+
+#### 1. Helburua
+
+Plangintza honen helburua da unibertsitateko sistema informatikoak, sareak eta datuak babestea, informazioaren konfidentzialtasuna, osotasuna eta eskuragarritasuna bermatuz, baita zerbitzu akademiko eta administratiboen jarraitutasuna ere.
+
+***
+
+#### 2. Arloak
+
+Segurtasun-plana hurrengo arloetan aplikatuko da:
+
+* Unibertsitateko sare informatikoak eta zerbitzariak
+* Ikasle eta langileen lanpostuak eta gailuak
+* Irakasgune birtualak eta administrazio-sistemak
+* Urruneko sarbideak eta gailu mugikorrak
+* Sistema informatikoekin lotutako instalazio fisikoak
+
+***
+
+#### 3. Arrisku nagusiak
+
+* Pasahitzen lapurreta edo sarbide baimenik gabeak
+* Malwarea, birusak eta zibererasoak
+* Gailuen lapurreta
+* Sare edo hornidura elektrikoaren etenak
+
+***
+
+#### 4. Segurtasun logikoko neurriak
+
+* Pasahitz sendoak eta aldizkako berritzea.
+* Bi faktoreko autentifikazioa sarbide kritikoetan.
+* Antibirus eta firewall eguneratuak erabiltzea gailu guztietan.
+* Eguneroko babeskopiak eta gordailu segurua.
+
+***
+
+#### 5. Segurtasun fisikoko neurriak
+
+* Sarbideen kontrola zerbitzari-gelara
+* Sare-ekipoak armairu edo rack itxietan gordetzea.
+* Ekipo informatikoen sarrera eta irteeren erregistroa.
+* Bideozaintza eta zaintza-sistemak eremu kritikoetan.\
+
+
+***
+
+#### 6.Neurriak
+
+* Papera %80 murrizteko helburua urte bukaerarako.\
+
+* Elektrizitate kontsumoa kontrolatzeko hilabeteko erregistro bat ezartzea.\
+
+* Berrerabiltzeko materialak jasotzeko puntu iraunkorrak sortzea ikastetxean.\
+
+* Ekipo informatiko zaharrak berrerabili edo birziklatzeko urteko kanpaina.\
+
+* Garraio jasangarria sustatzea (bizikleta, garraio publikoa edo partekatua).
+
+***
+
+#### 7.Hobekuntza-neurriak
+
+* Urtero ingurumen-auditoria txiki bat egitea kontsumoa eta emaitzak aztertzeko.\
+
+* Ikasleen eta langileen parte-hartzea handitzea proposamen jasangarrietan.\
+
+* Arduradun bat izendatzea ingurumen eta jasangarritasun gaietarako.\
+
+* Eko-eskolako programa edo antzeko ekimenetan parte hartzea.
+
+***
+
+#### 8.Ebaluazioa
+
+* Helburuak urtero berrikusiko dira.\
+
+* Aurrerapenak dokumentatu eta ebaluatuko dira.\
+
+* Hobekuntza neurriak eguneratu egingo dira jasotako emaitzen arabera.
+
+\
