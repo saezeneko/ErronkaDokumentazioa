@@ -66,3 +66,38 @@ Kali-Linux
 
 ![](<.gitbook/assets/unknown (48).png>)
 
+
+
+Ping scan, Escaneo TCP SYN
+
+![](<.gitbook/assets/unknown (51).png>)
+
+Portuen Eskaneoa ( TCP portu guztiak)
+
+![](<.gitbook/assets/unknown (53).png>)
+
+Detección de servicios, bertsioak  eta scripts basikoak
+
+![](<.gitbook/assets/unknown (54).png>)
+
+
+
+
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
